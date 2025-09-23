@@ -10,5 +10,5 @@
 	-pull request
 	-confirm
 8. main 브랜치로 동기화
-	- 이클립스 브랜치에서 main브랜치 생성
+	- 이클립스에서 main브랜치 생성
 	
