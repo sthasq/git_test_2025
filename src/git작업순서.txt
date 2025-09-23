@@ -6,4 +6,9 @@
 5. 작업 디렉토리에 있는 파일을 로컬 저장소에 저장하기(commit)
 6. remote 연결하기
 	-git 원격 저장소에 연결하기 위해서 토큰을 발급(한 번 발급하면 다시 github에서 확인 불가)
+7. remote로 push
+	-pull request
+	-confirm
+8. main 브랜치로 동기화
+	- 이클립스 브랜치에서 main브랜치 생성
 	
